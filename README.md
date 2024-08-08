@@ -3,7 +3,7 @@
 <p align="center">
 A linkedin scraper for scraping working email addresses from LinkedIn profiles in record time!
 </p>
-	![image](https://github.com/user-attachments/assets/475f9c03-65c1-42b8-ab5d-f020b6a80860)
+<img src='https://github.com/user-attachments/assets/475f9c03-65c1-42b8-ab5d-f020b6a80860'/>	
 
 </div>
 
