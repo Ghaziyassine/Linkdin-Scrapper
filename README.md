@@ -26,10 +26,4 @@ A linkedin scraper for scraping working email addresses from LinkedIn profiles i
 ## Installation
 
 1.  Clone the repository to your local machine.
-2.  Create a Python virtual environment.
-	* `python3 -m venv .venv`
-3.  Install the required dependencies.
-	* On Unix-based systems: `source .venv/bin/activate`
-	* On Windows: `.venv\Scripts\activate`
-	* Run : `pip install -r requirements.txt`
-4.  Run the app : `python3 app.py`
+2.  Run the app : `python3 app.py`
