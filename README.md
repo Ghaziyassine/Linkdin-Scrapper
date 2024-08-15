@@ -1,9 +1,7 @@
 <h3 align="center">Linkedin Scraper</h3>
 <div align="center">
 <p align="center">
-A linkedin scraper for scraping working email addresses from LinkedIn profiles in record time!
-</p>
-<img src='https://github.com/user-attachments/assets/475f9c03-65c1-42b8-ab5d-f020b6a80860'/>	
+A linkedin scraper for scraping working email addresses from LinkedIn profiles in record time !
 
 </div>
 
